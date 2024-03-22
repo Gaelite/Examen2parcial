@@ -1,5 +1,5 @@
 import random
-
+# E duardo Gael García Zuviría 22 de marzo de 2024
 # Lista de palabras para adivinar
 palabras = ["gato", "perro", "elefante", "leon", "tigre", "jirafa", "rinoceronte", "hormiga", "araña", "avispa"]
 

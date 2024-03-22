@@ -1,5 +1,5 @@
 import random
-
+# Eduardo Gael García Zuviría 22 de marzo de 2024
 # Tamaño del laberinto
 filas = 10
 columnas = 10
